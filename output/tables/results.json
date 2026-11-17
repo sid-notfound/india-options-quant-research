@@ -1,0 +1,470 @@
+{
+  "volume": {
+    "stk_notional_cr_2020": 76217.18018934065,
+    "stk_notional_cr_peak": 411771.45812147035,
+    "idx_notional_cr_2020": 1155347.5287509295,
+    "idx_notional_cr_peak": 13812634.296275334,
+    "idx_premium_cr_2020": 7726.995592460095,
+    "idx_premium_cr_peak": 42397.437213079895,
+    "stk_premium_cr_2020": 1832.229821666923,
+    "stk_premium_cr_peak": 6580.2583804165715,
+    "idx_notional_cr_last6m": 18138899.747203093,
+    "stk_notional_cr_last6m": 544276.085769271,
+    "vol_oi_idx_2020": 6.807849056877965,
+    "vol_oi_idx_peak": 11.84849234348672,
+    "vol_oi_stk_2020": 1.7455234743350316,
+    "vol_oi_stk_peak": 1.8310428288191563,
+    "top_names": [
+      "HDFCBANK",
+      "TATAMOTORS",
+      "MARUTI",
+      "SBIN",
+      "TCS",
+      "ADANIENT",
+      "HAL",
+      "RELIANCE",
+      "BAJFINANCE",
+      "INFY"
+    ],
+    "idx_share_le7d_2020": 0.9157014698263853,
+    "idx_share_le7d_peak": 0.9654025614076914,
+    "stk_share_le2w_2020": 0.45533257700067015,
+    "stk_share_le2w_peak": 0.4474717113761784
+  },
+  "participants": {
+    "share_Client_idx_2020": 0.4589401132185895,
+    "share_Client_idx_peak": 0.3773876785249577,
+    "share_Client_idx_last6m": 0.4205478598604551,
+    "share_Pro_idx_2020": 0.36537106538092756,
+    "share_Pro_idx_peak": 0.5419752917310015,
+    "share_Pro_idx_last6m": 0.5135774493694817,
+    "share_FII_idx_2020": 0.17561835591868602,
+    "share_FII_idx_peak": 0.08059974857884732,
+    "share_FII_idx_last6m": 0.06582387325201391,
+    "client_call_bs_idx_2020": 1.0033675907486042,
+    "client_call_bs_idx_peak": 0.9997337876409808,
+    "fii_call_bs_idx_peak": 1.0014201595712626,
+    "client_net_call_oi_idx_peak": -150616.39795918367,
+    "fii_net_call_oi_idx_peak": 212465.64285714287,
+    "client_long_call_oi_share_idx_peak": 0.6409016385633142,
+    "share_Client_stk_2020": 0.47768381886488515,
+    "share_Client_stk_peak": 0.3377926758795653,
+    "share_Client_stk_last6m": 0.30745668375311186,
+    "share_Pro_stk_2020": 0.4530919010837874,
+    "share_Pro_stk_peak": 0.5867107751740588,
+    "share_Pro_stk_last6m": 0.6331774412270422,
+    "share_FII_stk_2020": 0.06909049089922309,
+    "share_FII_stk_peak": 0.07433120228909687,
+    "share_FII_stk_last6m": 0.05680688313873415,
+    "client_call_bs_stk_2020": 1.0174403688797828,
+    "client_call_bs_stk_peak": 1.0163214880674802,
+    "fii_call_bs_stk_peak": 0.989789363702694,
+    "client_net_call_oi_stk_peak": 550578.5510204082,
+    "fii_net_call_oi_stk_peak": -48804.97959183674,
+    "client_long_call_oi_share_stk_peak": 0.7339317456483178
+  },
+  "surface": {
+    "skew30_Top30_2020": 0.029360218600017026,
+    "skew30_Top30_peak": -0.005510444534602642,
+    "skew30_Top30_full": 0.011210956513003616,
+    "skew30_Top30_last6m": 0.013996327060251536,
+    "skew30_Rest_2020": -0.0014232431691898137,
+    "skew30_Rest_peak": -0.024697916687958395,
+    "skew30_Rest_full": -0.008308884291833208,
+    "skew30_Rest_last6m": 0.000308431421724363,
+    "term_Top30_2020": 1.0076187650856525,
+    "term_Top30_peak": 0.9618806174198028,
+    "term_Top30_full": 0.974452679387013,
+    "term_Top30_last6m": 0.9719088254362244,
+    "term_Rest_2020": 1.0096238697248598,
+    "term_Rest_peak": 0.9743563758589663,
+    "term_Rest_full": 0.9737367780541915,
+    "term_Rest_last6m": 0.946997506184802,
+    "vrp_median_Top30_2020": 1.1578666248465452,
+    "vrp_median_Top30_peak": 1.0811603055293124,
+    "vrp_median_Top30_full": 1.1262789534054287,
+    "vrp_median_Top30_last6m": 1.0154217835252601,
+    "vrp_median_Rest_2020": 1.2267589408819777,
+    "vrp_median_Rest_peak": 1.1614485734608984,
+    "vrp_median_Rest_full": 1.1762155767407272,
+    "vrp_median_Rest_last6m": 1.0203021854388685,
+    "iv30_Top30_2020": 0.46285242535198046,
+    "iv30_Top30_peak": 0.26503615922017276,
+    "iv30_Top30_full": 0.3093726185348685,
+    "iv30_Top30_last6m": 0.23950967155973227,
+    "iv30_Rest_2020": 0.5398375883777999,
+    "iv30_Rest_peak": 0.313064097077965,
+    "iv30_Rest_full": 0.3727450265858803,
+    "iv30_Rest_last6m": 0.31083691612880165,
+    "vrp_diff_Top30_2020": 0.021830986726700155,
+    "vrp_diff_Top30_peak": 0.009104707221940081,
+    "vrp_diff_Top30_full": 0.018256485199562293,
+    "vrp_diff_Top30_last6m": -0.012804870313047497,
+    "vrp_diff_Rest_2020": 0.05978833879709748,
+    "vrp_diff_Rest_peak": 0.025474426783794652,
+    "vrp_diff_Rest_full": 0.03574685281150745,
+    "vrp_diff_Rest_last6m": -0.0024252523574863597,
+    "iv30_NIFTY_full": 0.16368051007192616,
+    "iv30_NIFTY_peak": 0.12521504892669458,
+    "vrp_NIFTY_full": 1.2100089928607316,
+    "vrp_NIFTY_peak": 1.203243448849804,
+    "skew30_NIFTY_full": 0.13783888000024858,
+    "skew30_NIFTY_peak": 0.10555533183796749,
+    "share_stocks_negative_skew": 0.5090566606389392
+  },
+  "eov": {
+    "eov_t_mean_all": 3.941003404371671,
+    "eov_r2_mean_all": 0.10750709478972174,
+    "eov_t_mean_all_2020": 3.7001912136531323,
+    "eov_t_mean_all_peak": 4.512335103858452,
+    "eov_r2_mean_all_peak": 0.12922023347815023,
+    "eov_t_mean_all_last6m": 3.4591829097509175,
+    "eov_frac_positive_t": 0.9047619047619048,
+    "eov_fm_tstat_all": 27.974940671537745,
+    "eov_t_mean_top": 2.267514788391572,
+    "eov_r2_mean_top": 0.13587666386846925,
+    "eov_t_mean_fwd": -0.26837747596405265,
+    "eov_fm_tstat_fwd": -3.620385756008215,
+    "eov_qspread_mean_wk": -0.0022028150537747836,
+    "eov_qspread_tstat": -2.8471894652040515,
+    "opt_to_stock_2020": 1.695623978967046,
+    "opt_to_stock_peak": 8.054971987460094,
+    "opt_to_stock_last6m": 8.458542111482561,
+    "dadj_to_stock_2020": 0.5811202870966904,
+    "dadj_to_stock_peak": 2.7308140956339955,
+    "dadj_to_stock_last6m": 2.776719529625491,
+    "top10_dadj": [
+      "RELIANCE",
+      "ASIANPAINT",
+      "EICHERMOT",
+      "SIEMENS",
+      "APLAPOLLO",
+      "UPL",
+      "SBICARD",
+      "ABB",
+      "HAVELLS",
+      "LAURUSLABS"
+    ]
+  },
+  "events": {
+    "Index option contracts (mn)": {
+      "pre_6m": 191.644,
+      "post_6m": 103.8245,
+      "latest_6m": 116.1138,
+      "chg_post_pct": -45.8243,
+      "chg_latest_pct": -39.4117,
+      "p_value": 0.0009
+    },
+    "Index option premium (Rs cr)": {
+      "pre_6m": 42686.2819,
+      "post_6m": 44609.7749,
+      "latest_6m": 52837.8416,
+      "chg_post_pct": 4.5061,
+      "chg_latest_pct": 23.7818,
+      "p_value": 0.5068
+    },
+    "Index option notional (Rs lakh cr)": {
+      "pre_6m": 127.6863,
+      "post_6m": 134.8755,
+      "latest_6m": 181.389,
+      "chg_post_pct": 5.6304,
+      "chg_latest_pct": 42.0583,
+      "p_value": 0.7695
+    },
+    "Stock option notional (Rs '000 cr)": {
+      "pre_6m": 535.553,
+      "post_6m": 491.1612,
+      "latest_6m": 544.2761,
+      "chg_post_pct": -8.289,
+      "chg_latest_pct": 1.6288,
+      "p_value": 0.3514
+    },
+    "Stock option premium (Rs cr)": {
+      "pre_6m": 8446.9436,
+      "post_6m": 7868.8331,
+      "latest_6m": 8004.1649,
+      "chg_post_pct": -6.844,
+      "chg_latest_pct": -5.2419,
+      "p_value": 0.2566
+    },
+    "Client contracts, index opt (mn)": {
+      "pre_6m": 69.8714,
+      "post_6m": 35.6051,
+      "latest_6m": 48.3588,
+      "chg_post_pct": -49.0419,
+      "chg_latest_pct": -30.7887,
+      "p_value": 0.0
+    },
+    "Client share, index options": {
+      "pre_6m": 0.3766,
+      "post_6m": 0.3548,
+      "latest_6m": 0.4205,
+      "chg_post_pct": -5.7737,
+      "chg_latest_pct": 11.6799,
+      "p_value": 0.0029
+    },
+    "Client share, stock options": {
+      "pre_6m": 0.3392,
+      "post_6m": 0.2859,
+      "latest_6m": 0.3075,
+      "chg_post_pct": -15.7046,
+      "chg_latest_pct": -9.3525,
+      "p_value": 0.0
+    },
+    "0-1D share of index notional": {
+      "pre_6m": 0.0441,
+      "post_6m": 0.0711,
+      "latest_6m": 0.036,
+      "chg_post_pct": 61.4595,
+      "chg_latest_pct": -18.3807,
+      "p_value": 0.648
+    },
+    "NIFTY 30D ATM IV": {
+      "pre_6m": 0.1386,
+      "post_6m": 0.1421,
+      "latest_6m": 0.1242,
+      "chg_post_pct": 2.5189,
+      "chg_latest_pct": -10.375,
+      "p_value": 0.5913
+    },
+    "NIFTY 30D skew": {
+      "pre_6m": 0.1146,
+      "post_6m": 0.2006,
+      "latest_6m": 0.1014,
+      "chg_post_pct": 75.0897,
+      "chg_latest_pct": -11.503,
+      "p_value": 0.0121
+    },
+    "Top30 skew": {
+      "pre_6m": 0.0028,
+      "post_6m": 0.0673,
+      "latest_6m": 0.014,
+      "chg_post_pct": 2318.6692,
+      "chg_latest_pct": 403.0194,
+      "p_value": 0.0
+    },
+    "Top30 VRP (IV/RV)": {
+      "pre_6m": 1.0494,
+      "post_6m": 1.0154,
+      "latest_6m": 1.0154,
+      "chg_post_pct": -3.243,
+      "chg_latest_pct": -3.2384,
+      "p_value": 0.469
+    },
+    "Rest VRP (IV/RV)": {
+      "pre_6m": 1.131,
+      "post_6m": 1.0238,
+      "latest_6m": 1.0203,
+      "chg_post_pct": -9.4768,
+      "chg_latest_pct": -9.7872,
+      "p_value": 0.022
+    }
+  },
+  "straddle": {
+    "stats": {
+      "VolScore Top20": {
+        "CAGR": 0.2159,
+        "Ann. vol": 0.0835,
+        "Sharpe": 2.4005,
+        "Max drawdown": -0.0276,
+        "Hit rate": 0.85,
+        "Worst period": -0.0633,
+        "Best period": 0.1393,
+        "Periods": 80.0
+      },
+      "VolScore Top20 (2x slippage)": {
+        "CAGR": 0.1804,
+        "Ann. vol": 0.0825,
+        "Sharpe": 2.0643,
+        "Max drawdown": -0.0347,
+        "Hit rate": 0.8125,
+        "Worst period": -0.0681,
+        "Best period": 0.1324,
+        "Periods": 80.0
+      },
+      "All stocks": {
+        "CAGR": 0.0809,
+        "Ann. vol": 0.0518,
+        "Sharpe": 1.5328,
+        "Max drawdown": -0.0408,
+        "Hit rate": 0.75,
+        "Worst period": -0.0437,
+        "Best period": 0.0668,
+        "Periods": 80.0
+      },
+      "Top30 group": {
+        "CAGR": 0.0522,
+        "Ann. vol": 0.0487,
+        "Sharpe": 1.0697,
+        "Max drawdown": -0.0592,
+        "Hit rate": 0.675,
+        "Worst period": -0.032,
+        "Best period": 0.0722,
+        "Periods": 80.0
+      },
+      "Rest group": {
+        "CAGR": 0.0874,
+        "Ann. vol": 0.0535,
+        "Sharpe": 1.5985,
+        "Max drawdown": -0.0383,
+        "Hit rate": 0.725,
+        "Worst period": -0.047,
+        "Best period": 0.0645,
+        "Periods": 80.0
+      },
+      "VolScore Bottom20": {
+        "CAGR": 0.0124,
+        "Ann. vol": 0.0393,
+        "Sharpe": 0.3318,
+        "Max drawdown": -0.1021,
+        "Hit rate": 0.525,
+        "Worst period": -0.0337,
+        "Best period": 0.0318,
+        "Periods": 80.0
+      },
+      "NIFTY DH straddle": {
+        "CAGR": 0.0256,
+        "Ann. vol": 0.031,
+        "Sharpe": 0.8324,
+        "Max drawdown": -0.0649,
+        "Hit rate": 0.6974,
+        "Worst period": -0.0253,
+        "Best period": 0.0257,
+        "Periods": 76.0
+      }
+    },
+    "latest_rich": [
+      {
+        "symbol": "PATANJALI",
+        "iv": 0.3701,
+        "adj_rv": 0.1992,
+        "sector_med_iv": 0.2363,
+        "volscore": 5.8314
+      },
+      {
+        "symbol": "POLICYBZR",
+        "iv": 0.4932,
+        "adj_rv": 0.3623,
+        "sector_med_iv": 0.2802,
+        "volscore": 5.8025
+      },
+      {
+        "symbol": "SUZLON",
+        "iv": 0.3681,
+        "adj_rv": 0.2404,
+        "sector_med_iv": 0.2988,
+        "volscore": 4.1472
+      },
+      {
+        "symbol": "ANANDRATHI",
+        "iv": 0.3236,
+        "adj_rv": 0.1827,
+        "sector_med_iv": 0.2802,
+        "volscore": 3.8629
+      },
+      {
+        "symbol": "IDEA",
+        "iv": 0.3887,
+        "adj_rv": 0.3423,
+        "sector_med_iv": 0.2577,
+        "volscore": 3.4195
+      },
+      {
+        "symbol": "ANGELONE",
+        "iv": 0.3721,
+        "adj_rv": 0.2948,
+        "sector_med_iv": 0.2802,
+        "volscore": 3.3557
+      },
+      {
+        "symbol": "RVNL",
+        "iv": 0.3355,
+        "adj_rv": 0.2316,
+        "sector_med_iv": 0.2901,
+        "volscore": 3.0212
+      },
+      {
+        "symbol": "IRFC",
+        "iv": 0.2923,
+        "adj_rv": 0.1606,
+        "sector_med_iv": 0.2802,
+        "volscore": 3.0018
+      },
+      {
+        "symbol": "FORTIS",
+        "iv": 0.3075,
+        "adj_rv": 0.2186,
+        "sector_med_iv": 0.2507,
+        "volscore": 2.8852
+      },
+      {
+        "symbol": "IREDA",
+        "iv": 0.3198,
+        "adj_rv": 0.2301,
+        "sector_med_iv": 0.2802,
+        "volscore": 2.5348
+      }
+    ]
+  },
+  "callspread": {
+    "stats": {
+      "Screened call spreads": {
+        "CAGR": -0.0097,
+        "Ann. vol": 0.1162,
+        "Sharpe": -0.0274,
+        "Max drawdown": -0.164,
+        "Hit rate": 0.4342,
+        "Worst period": -0.05,
+        "Best period": 0.0797,
+        "Periods": 76.0,
+        "Avg trade return": -0.0053
+      },
+      "All-stock call spreads": {
+        "CAGR": -0.0105,
+        "Ann. vol": 0.0942,
+        "Sharpe": -0.0659,
+        "Max drawdown": -0.192,
+        "Hit rate": 0.4474,
+        "Worst period": -0.0461,
+        "Best period": 0.0607,
+        "Periods": 76.0,
+        "Avg trade return": -0.0104
+      },
+      "Screened names, long stock": {
+        "CAGR": 0.1019,
+        "Ann. vol": 0.2495,
+        "Sharpe": 0.5119,
+        "Max drawdown": -0.3395,
+        "Hit rate": 0.6053,
+        "Worst period": -0.1616,
+        "Best period": 0.2204,
+        "Periods": 76.0,
+        "Avg trade return": NaN
+      },
+      "All names, long stock": {
+        "CAGR": 0.1186,
+        "Ann. vol": 0.1822,
+        "Sharpe": 0.7073,
+        "Max drawdown": -0.2253,
+        "Hit rate": 0.5921,
+        "Worst period": -0.1216,
+        "Best period": 0.1446,
+        "Periods": 76.0,
+        "Avg trade return": NaN
+      }
+    },
+    "screen_date": "2026-11-17",
+    "current": [
+      "LAURUSLABS",
+      "ADANIENT",
+      "MOTILALOFS",
+      "CAMS",
+      "BSE",
+      "NAM-INDIA",
+      "CDSL",
+      "DELHIVERY",
+      "UNIONBANK",
+      "KFINTECH"
+    ]
+  }
+}
